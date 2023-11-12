@@ -1,0 +1,15 @@
+{
+  "title": "Launch Day",
+  "description": "Finally the blog feature is done for the site, I managed to find a weekend for it.",
+  "author": "Samarth",
+  "date": "12 November 2023",
+  "slug": "welcome",
+  "public": true,
+  "bodyContent": "![Welcome to my internet home](/blogs/blog_assets/welcome.svg)\n\nWell this is a milestone for me, I didn't think i would complete it but here we are, \nfinally the blog feature is complete, so now we have another challenge of regularly or irregularly writing something.\n\nI will try to write about how I created the blogging feature, mostly its just markdown to a good web page translation, we \ncan talk about that for some other time. This `Launch Day` blog is just a test, hopefully everything is working.\n\n## What to expect\n\n* If I encounter a great problem, might write about it.\n* Software concepts and stuff\n* Tutorials and How-tos",
+  "bodyHtml": "<p><img src=\"/blogs/blog_assets/welcome.svg\" alt=\"Welcome to my internet home\"></p>\n<p>Well this is a milestone for me, I didn't think i would complete it but here we are,\nfinally the blog feature is complete, so now we have another challenge of regularly or irregularly writing something.</p>\n<p>I will try to write about how I created the blogging feature, mostly its just markdown to a good web page translation, we\ncan talk about that for some other time. This <code>Launch Day</code> blog is just a test, hopefully everything is working.</p>\n<h2>What to expect</h2>\n<ul>\n<li>If I encounter a great problem, might write about it.</li>\n<li>Software concepts and stuff</li>\n<li>Tutorials and How-tos</li>\n</ul>\n",
+  "dir": "public/blogs_out",
+  "base": "welcome.json",
+  "ext": ".json",
+  "sourceBase": "welcome.md",
+  "sourceExt": ".md"
+}
