@@ -1,0 +1,20 @@
+{
+  "fileMap": {
+    "src/writings/welcome.json": {
+      "title": "Launch Day",
+      "description": "Finally the blog feature is done for the site, I managed to find a weekend for it.",
+      "author": "Samarth",
+      "date": "12 November 2023",
+      "slug": "welcome",
+      "public": true,
+      "dir": "src/writings",
+      "base": "welcome.json",
+      "ext": ".json",
+      "sourceBase": "welcome.md",
+      "sourceExt": ".md"
+    }
+  },
+  "sourceFileArray": [
+    "./public/blogs/welcome.md"
+  ]
+}
