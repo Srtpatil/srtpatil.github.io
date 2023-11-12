@@ -1,0 +1,15 @@
+{
+  "title": "Writing a compiler (Part 1)",
+  "description": "",
+  "author": "Samarth",
+  "date": "13 November 2023",
+  "slug": "welcome",
+  "public": false,
+  "bodyContent": "# A post about compilers",
+  "bodyHtml": "<h1>A post about compilers</h1>\n",
+  "dir": "public/blogs_out",
+  "base": "compiler-1.json",
+  "ext": ".json",
+  "sourceBase": "compiler-1.md",
+  "sourceExt": ".md"
+}
