@@ -20,3 +20,9 @@ can talk about that for some other time. This `Launch Day` blog is just a test, 
 * If I encounter a great problem, might write about it.
 * Software concepts and stuff
 * Tutorials and How-tos
+
+
+&nbsp;
+&nbsp;
+
+Alright, Peace Out ✌️
